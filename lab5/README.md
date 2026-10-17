@@ -1,0 +1,1 @@
+React was easier than I expected. I found it easier to organize the page into reusable components instead of working with separate HTML, CSS, and JavaScript files. My main challenge was getting used to JSX, props, and state, but these concepts will became clearer with practice, but I prefer this way of building web pages.
