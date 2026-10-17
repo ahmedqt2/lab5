@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import ProductList from './components/ProductList'
+import ProductList from './component/ProductList'
 
 function App() {
   const [showProducts, setShowProducts] = useState(true)
@@ -12,7 +12,6 @@ function App() {
   const handleToggle = () => {
     setShowProducts(!showProducts)
   }
-
   return (
     <>
       <h1>React Product Dashboard</h1>
